@@ -1,0 +1,11 @@
+D:\Windows\9º Periodo\dotnet\bin\Debug\netcoreapp3.1\dotnet.exe
+D:\Windows\9º Periodo\dotnet\bin\Debug\netcoreapp3.1\dotnet.deps.json
+D:\Windows\9º Periodo\dotnet\bin\Debug\netcoreapp3.1\dotnet.runtimeconfig.json
+D:\Windows\9º Periodo\dotnet\bin\Debug\netcoreapp3.1\dotnet.runtimeconfig.dev.json
+D:\Windows\9º Periodo\dotnet\bin\Debug\netcoreapp3.1\dotnet.dll
+D:\Windows\9º Periodo\dotnet\bin\Debug\netcoreapp3.1\dotnet.pdb
+D:\Windows\9º Periodo\dotnet\obj\Debug\netcoreapp3.1\dotnet.csprojAssemblyReference.cache
+D:\Windows\9º Periodo\dotnet\obj\Debug\netcoreapp3.1\dotnet.AssemblyInfoInputs.cache
+D:\Windows\9º Periodo\dotnet\obj\Debug\netcoreapp3.1\dotnet.AssemblyInfo.cs
+D:\Windows\9º Periodo\dotnet\obj\Debug\netcoreapp3.1\dotnet.dll
+D:\Windows\9º Periodo\dotnet\obj\Debug\netcoreapp3.1\dotnet.pdb
